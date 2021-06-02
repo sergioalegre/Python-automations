@@ -2,7 +2,6 @@
 #cada OS suele tener un TTL y basado en esto el programa detectara el OS
 
 #!/usr/bin/python
-
 import subprocess, re, sys #subprocess para hacer ping, re para expresiones regulares, sys para que el programa maneje argumentos
 
 def return_ttl(direccion_ip_a_escanear): #funcion que:
