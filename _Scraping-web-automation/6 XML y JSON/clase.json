@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alvaro Chirou",
+    "pais": "Argentina, Neuquen",
+    "telefono": "11"
+  },
+  {
+    "id": 2,
+    "nombre": "Valentina Chirou",
+    "pais": "Argentina, Neuquen",
+    "telefono": "22"
+  },
+  {
+    "id": 3,
+    "nombre": "Estudiantes Udemy",
+    "pais": "Todo el mundo",
+    "telefono": "33"
+  }
+]
