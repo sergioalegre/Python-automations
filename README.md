@@ -1,4 +1,4 @@
-Check also my other github scripting repos for automations for IA [](), ML[](), [POWERSHELL](https://github.com/sergioalegre/Powershell) and [BASH](https://github.com/sergioalegre/Bash-Script).
+Check also my other github scripting repos for automations for [Artificial Inteligence](https://github.com/sergioalegre/Pandas-matplotlib-Sklearn-Scipy-Tensorflow-Keras), [Machine Learning](https://github.com/sergioalegre/Machine-Learning-Predictive-Models-UVA), [POWERSHELL](https://github.com/sergioalegre/Powershell) and [BASH](https://github.com/sergioalegre/Bash-Script).
 
 ## **PYTHON SCRIPTS INDEX:**
 
