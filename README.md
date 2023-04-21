@@ -1,6 +1,6 @@
 Check also my other github scripting repos for automations for IA [](), ML[](), [POWERSHELL](https://github.com/sergioalegre/Powershell) and [BASH](https://github.com/sergioalegre/Bash-Script).
 
-# **PYTHON SCRIPTS INDEX:**
+## **PYTHON SCRIPTS INDEX:**
 
 [#Azure](#Azure)
 
@@ -11,6 +11,7 @@ Check also my other github scripting repos for automations for IA [](), ML[](), 
 [#OS](#OS)
 
 [#Scraping](#Scraping)
+
 ------------
 
 ### Azure
@@ -30,28 +31,48 @@ Check also my other github scripting repos for automations for IA [](), ML[](), 
   - **FuerzaBrutaFTP.py** fuerza bruta contra FTP con ataque de diccionario. Libreria ftplib
   - **FuerzaBrutaSSH.py** fuerza bruta contra SSH con ataque de diccionario. Libreria paramiko
   - **nmap.py** script que te pide IP objetivo y te filtra la salida de nmap    
-  - **scrapping1.py** muestra el contenido de los <li> de un html eliminando las etiquetas html
-  - **scrapping2.py** aaa    
   - **shodan.py** usar la API del buscador shodan y formatear resultados
   - **shodan2.py** usar la API del buscador shodan y formatear resultados    
   - **sistemas_opertativos.py** operaciones con carpetas y ficheros. Librerias subprocess, os, sys, shutil
   - **sockets.py** ejemplos con la libreria socket    
 
 ### OS
-  - **XXX** aaa
-  - **XXX** aaa  
-  - **XXX** aaa  
-  - **XXX** aaa
-  - **XXX** aaa    
-  - **XXX** aaa
+  - **2020 Mover el raton y presionar teclas.ipynb** simulará que trabajamos moviendo el mouse y presionando una tecla cada x tiempo. Libreria pyautogui
+  - **2023 API_VirusTotal_Python.py** usar la api de VirusTotal, subir archivo y procesa el resultado. Libreria hashlib, virus_total_apis
 
 ### Scraping
-  - **XXX** aaa
-  - **XXX** aaa  
-  - **XXX** aaa  
-  - **XXX** aaa
-  - **XXX** aaa    
-  - **XXX** aaa
+  - **0. EJEMPLO COMPLETO SERGIO - PMO.ipynb** automatizar acciones en la PMO con la libreria Selenium
+  - **0. EJEMPLO COMPLETO SERGIO.ipynb** ejemplo completo de lo aprendido en el curso  
+  - **0. INDICE de referencia.ipynb**  
+  - **2020 Scraping Amazon track price.ipynb** si el precio de un item baja de precio que me envie un email. Librerias BeautifulSoup y smtplib
+  - **scrapping1.py** muestra el contenido de los <li> de un html eliminando las etiquetas html
+  - **scrapping2.py**      
+  - **5 Basicos/5.1 Aprendemos a realizar nuestra primera extracción.ipynb**
+  - **5 Basicos/5.2 Aprendemos a usar urllib.ipynb**
+  - **5 Basicos/5.3 Ordenamos y elegimos lo que queremos extraer.ipynb**
+  - **5 Basicos/5.4 Extraccion con mayor profundidad.ipynb**
+  - **5 Basicos/5.6 Otras formas de hacer scrapping.ipynb**
+  - **5 Basicos/5.7 Extraer solo Texto.ipynb**             
+  - **5 Basicos/5.8 Contamos una cantidad determinadas de palabras que buscamos.ipynb**
+  - **6 XML y JSON/6.1 Extraer datos de XML.ipynb**
+  - **6 XML y JSON/6.2 Extraer datos de JSON.ipynb**       
+  - **7 Selenium/7.1 Primeros pasos con Selenium.ipynb**
+  - **7 Selenium/7.2 Elegimos opciones en el campo option.ipynb**
+  - **7 Selenium/7.3 Cómo realizar Clicks en el Formulario.ipynb**
+  - **7 Selenium/7.4 Abrir paginas en distintas pestañas.ipynb**
+  - **7 Selenium/7.4 Iniciar sesion con Selenium.ipynb**
+  - **7 Selenium/7.5 Navegamos adelante-atras en la misma pestaña.ipynb**
+  - **7 Selenium/7.6 Elegir opcion en formulario.ipynb**
+  - **7 Selenium/7.7 Elementos CSS.ipynb**
+  - **7 Selenium/7.8 Tablas.ipynb**
+  - **7 Selenium/7.9 Hacer Scroll.ipynb**
+  - **7 Selenium/7.10 switch.ipynb**
+  - **7 Selenium/7.11 Radio Button.ipynb**
+  - **7 Selenium/7.12 posicionar raton sobre enlace.ipynb**
+  - **7 Selenium/7.13 Lectura de cookies.ipynb**
+  - **7 Selenium/7.14 Capturar pantalla.ipynb**
+  - **7 Selenium/7.15 Cargar un archivo.ipynb**
+  - **7 Selenium/7.16 Doble click y boton derecho.ipynb**                              
 
 
 ## Contact
@@ -67,20 +88,25 @@ Website: https://me.sergioalegre.es
 <!-- TECNOLOGIAS -->
 * Python
 * Jupiter Notebooks
-* Facemesh: trabajar con la webcam
-* pywhatkit: enviar whatsapps
-* pygame: abrir y reproducir archivos
-* vpython: dibujar en canvas
+
+* BeautifulSoup: pulling data out of HTML and XML files
 * cv2: capturar desde webcam
-* subprocess
-* re
-* sys
+* Facemesh: trabajar con la webcam
 * ftplib: operaciones con el protocolo ftp
-* paramiko: operaciones con el protocolo ssh
 * nmap
+* paramiko: operaciones con el protocolo ssh
+* pyautogui: usar el raton y el teclado
+* pygame: abrir y reproducir archivos
+* pywhatkit: enviar whatsapps
+* re
+* Selenium: scrapping
 * shodan: api del buscador
 * shutil
+* smtplib
 * socket
+* sys
+* subprocess
+* vpython: dibujar en canvas
 
 ## Getting Started
 ---
