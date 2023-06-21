@@ -24,6 +24,7 @@ Check also my other github scripting repos for automations for [Artificial Intel
   - **2021_face_smile_selfie_recognition.py** leemos de la webcam, detectará rostros, y cuando detecte una sonrisa hará un selfie, libreia cv2  
   - **PROBLEMA adivinar numero.py3** ejemplos de bucles para adivinar un numero dado por la libreia random
   - **2022 juego plataformas Facemesh** juego de Plataformas controlado por la boca cara usando libreria Facemesh con la webcam
+  - **2023_ChatGPT_obtiene_datos_de_pdf** Cargar un PDF en ChatGPT y hacerle preguntas, librerias PyPDF2 y openai
 
 ### Hacking
   - **2021 identificar_OS_segun_TTL.py** cada OS suele tener un TTL y basado en esto el programa detectara el OS. Libreias subprocess, re, sys
@@ -94,9 +95,11 @@ Website: https://me.sergioalegre.es
 * Facemesh: trabajar con la webcam
 * ftplib: operaciones con el protocolo ftp
 * nmap
+* openai: trabajar con ChatGPT
 * paramiko: operaciones con el protocolo ssh
 * pyautogui: usar el raton y el teclado
 * pygame: abrir y reproducir archivos
+* PyPDF2: leer pdf
 * pywhatkit: enviar whatsapps
 * re
 * Selenium: scrapping
