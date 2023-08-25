@@ -25,6 +25,7 @@ Check also my other github scripting repos for automations for [Artificial Intel
   - **PROBLEMA adivinar numero.py3** ejemplos de bucles para adivinar un numero dado por la libreia random
   - **2022 juego plataformas Facemesh** juego de Plataformas controlado por la boca cara usando libreria Facemesh con la webcam
   - **2023_ChatGPT_obtiene_datos_de_pdf** Cargar un PDF en ChatGPT y hacerle preguntas, librerias PyPDF2 y openai
+  - **2023 sudoku.com-solver** Resolver sudokus con Backtracking + Computer Vision + Machine Learning (KNN) + GUI Automation
 
 ### Hacking
   - **2021 identificar_OS_segun_TTL.py** cada OS suele tener un TTL y basado en esto el programa detectara el OS. Libreias subprocess, re, sys
